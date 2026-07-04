@@ -1,0 +1,20 @@
+# Local Data & Assets
+Background/
+Helper_Images/
+views_da.xlsx
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# OS Metadata Files
+Thumbs.db
+.DS_Store
