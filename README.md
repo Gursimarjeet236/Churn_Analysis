@@ -8,11 +8,11 @@ An end-to-end data analysis and machine learning project focused on understandin
 
 ### 1. Churn Analysis - Summary Dashboard
 Provides a comprehensive overview of historical churn rates, customer demographics, contract details, payment methods, and services used.
-![Summary Dashboard](Background/Summary.PNG)
+![Summary Dashboard](Screenshots/Summary.PNG)
 
 ### 2. Churn Analysis - Prediction Dashboard
 Leverages predictions from our Machine Learning model to profile new joiners who are at risk of churning, enabling proactive customer retention strategies.
-![Prediction Dashboard](Background/Prediction.PNG)
+![Prediction Dashboard](Screenshots/Prediction.PNG)
 
 ---
 
